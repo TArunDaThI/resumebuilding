@@ -1,0 +1,25 @@
+{
+	"basicdetails":{
+
+		"image":"penguins.jpg",
+		"name":"arundathi",
+		"email":"tarundhathi1999@gmail.com",
+		"phnno":"9703639141",
+		"address":"nehru nagar"
+	},
+	"education":[
+		{
+			"course":"b.tech",
+			"college":"vignan nirula for women",
+			"percentage":"80%"
+		},
+		{
+			"intermediate":"sri chaitanaya",
+			"percentage":"80%"
+		},
+		{
+			"school":"sri vikas",
+			"percentage":"90%"
+		}
+	]
+}

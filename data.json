@@ -1,0 +1,51 @@
+{
+	"basicdetails":{
+		"image":"penguins.jpg",
+		"name":"arundathi",
+		"email":"tarundhathi1999@gmail.com",
+		"phnno":"9703639141",
+		"address":"nehru nagar"
+	},
+	"education":[
+		{
+			"course":"b.tech",
+			"college":"vignan nirula for women",
+			"percentage":"80%"
+
+		},
+		{
+			"intermediate":"sri chaitanaya",
+			"percentage":"80%"
+		},
+		{
+			"school":"sri vikas",
+			"percentage":"90%"
+		}
+	],
+	"skills":[
+		{
+			"name":"operating system",
+			"value":"Windows,Linux,MAC"
+		},
+		{
+			"name":"Programming Languages",
+			"value":"C,C++,Java,Python"
+		}
+	],
+	"carrier":{
+		"ca":"i am using my knowledge and skills towards the growth and organisation",
+		"mca":"i am learning html programs"
+
+	},
+	"achivements":[
+		{
+			"i got first prise in chess"
+		}
+
+	],
+	"description":[
+		{
+			"all menctioned above are true"
+		}
+	]
+} 
